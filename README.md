@@ -2,7 +2,8 @@
 
 An end-to-end data analytics project to find out **who is leaving, when they leave, why they leave, and how much revenue is lost**, using **Python, SQL,** and **Power BI**.
 
-C:\Users\hp\Downloads\churn_banner.png
+<img width="2470" height="566" alt="churn_banner" src="https://github.com/user-attachments/assets/10e39b97-a774-4375-b75f-e7a4dc30fbf2" />
+
 
 ## 📌 Project Overview
 
