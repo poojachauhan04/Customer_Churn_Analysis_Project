@@ -119,5 +119,3 @@ An interactive report with **6 pages**, a navigation panel, slicers, and a reset
 ➢ **Track Risk Every Month** → Watch the risk score monthly and review how complaints are resolved.
 
 ➢ **Restart Customer Acquisition** → There have been no new sign-ups since December 2024, so bring in new customers.
-
-## 👋 Thank you for visiting my repository!
