@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project to find out **who is leaving, when they leave, why they leave, and how much revenue is lost**, using **Python, SQL,** and **Power BI**.
 
-<img width="946" height="217" alt="Customer Churn Analysis banner" src="images/churn_banner.png" />
+C:\Users\hp\Downloads\churn_banner.png
 
 ## 📌 Project Overview
 
