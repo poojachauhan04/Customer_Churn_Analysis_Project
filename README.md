@@ -81,22 +81,22 @@ An interactive report with **6 pages**, a navigation panel, slicers, and a reset
 ### 📸 Dashboard Preview
 
 **1. Home**
-<img src="images/dashboard_1_home.png" alt="Home page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_1_home" src="https://github.com/user-attachments/assets/786fb959-07a6-417b-ba72-d24b9dc1bbac" />
 
 **2. Customer Segmentation**
-<img src="images/dashboard_2_customer_segmentation.png" alt="Customer Segmentation page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_2_customer_segmentation" src="https://github.com/user-attachments/assets/e989bf6b-a4e4-4f92-96dc-a88f65a27490" />
 
 **3. Churn Overview**
-<img src="images/dashboard_3_churn_overview.png" alt="Churn Overview page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_3_churn_overview" src="https://github.com/user-attachments/assets/bce1d07c-3c62-48d7-a9a5-4fbbe022c1fd" />
 
 **4. Risk & Complaints**
-<img src="images/dashboard_4_risk_and_complaints.png" alt="Risk and Complaints page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_4_risk_and_complaints" src="https://github.com/user-attachments/assets/a7b6ef5a-8b3d-40af-ac6a-26db60f69f00" />
 
 **5. Revenue Impact**
-<img src="images/dashboard_5_revenue_impact.png" alt="Revenue Impact page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_5_revenue_impact" src="https://github.com/user-attachments/assets/e8d2cebe-0e4d-41a0-9194-9071c604258d" />
 
 **6. Time Trends**
-<img src="images/dashboard_6_time_trends.png" alt="Time Trends page" width="100%" />
+<img width="2989" height="1705" alt="dashboard_6_time_trends" src="https://github.com/user-attachments/assets/df509773-87b6-4b35-aa34-1e109d410614" />
 
 ## 💡 Key Insights
 
