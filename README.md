@@ -28,12 +28,6 @@ The data covers **93,587 customers from India and Nepal**. Subscriptions started
 - **Data Visualization**: Power BI
 - **Analytical Concepts**: Churn Analysis, Risk Segmentation, Complaint Analysis, Revenue Impact (ARPU, CLTV)
 
-## 🔗 Project Links
-
-- **GitHub**: [Project Link](ADD_GITHUB_LINK)
-- **Power BI Dashboard**: [View Dashboard](ADD_DASHBOARD_LINK)
-- **Cleaned Dataset**: [Cleaned Data](ADD_DATASET_LINK)
-
 ## ❓ Business Problems Solved
 
 - **Who is leaving?** Checked if any plan, country, gender, age group, or risk segment stands out.
