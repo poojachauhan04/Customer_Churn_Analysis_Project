@@ -81,7 +81,7 @@ An interactive report with **6 pages**, a navigation panel, slicers, and a reset
 ### 📸 Dashboard Preview
 
 **1. Home**
-<img width="2989" height="1705" alt="dashboard_1_home" src="https://github.com/user-attachments/assets/786fb959-07a6-417b-ba72-d24b9dc1bbac" />
+<img width="2989" height="1705" alt="dashboard_1_home (1)" src="https://github.com/user-attachments/assets/84adf953-dde2-4b3a-87f2-7c512e2d0416" />
 
 **2. Customer Segmentation**
 <img width="2989" height="1705" alt="dashboard_2_customer_segmentation" src="https://github.com/user-attachments/assets/e989bf6b-a4e4-4f92-96dc-a88f65a27490" />
