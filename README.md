@@ -78,8 +78,25 @@ An interactive report with **6 pages**, a navigation panel, slicers, and a reset
 | **Revenue Impact** | ARPU, CLTV, revenue lost, and revenue at high risk |
 | **Time Trends** | Churn and revenue lost by year; revenue at risk by start year |
 
-<!-- Add your dashboard screenshot here -->
-<img width="654" height="365" alt="dashboard" src="ADD_DASHBOARD_IMAGE_LINK" />
+### 📸 Dashboard Preview
+
+**1. Home**
+<img src="images/dashboard_1_home.png" alt="Home page" width="100%" />
+
+**2. Customer Segmentation**
+<img src="images/dashboard_2_customer_segmentation.png" alt="Customer Segmentation page" width="100%" />
+
+**3. Churn Overview**
+<img src="images/dashboard_3_churn_overview.png" alt="Churn Overview page" width="100%" />
+
+**4. Risk & Complaints**
+<img src="images/dashboard_4_risk_and_complaints.png" alt="Risk and Complaints page" width="100%" />
+
+**5. Revenue Impact**
+<img src="images/dashboard_5_revenue_impact.png" alt="Revenue Impact page" width="100%" />
+
+**6. Time Trends**
+<img src="images/dashboard_6_time_trends.png" alt="Time Trends page" width="100%" />
 
 ## 💡 Key Insights
 
@@ -104,5 +121,3 @@ An interactive report with **6 pages**, a navigation panel, slicers, and a reset
 ➢ **Restart Customer Acquisition** → There have been no new sign-ups since December 2024, so bring in new customers.
 
 ## 👋 Thank you for visiting my repository!
-
-If you found this project helpful, feel free to ⭐ the repo and connect with me.
